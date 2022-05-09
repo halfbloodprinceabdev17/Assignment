@@ -1,0 +1,51 @@
+p{
+    color:blue;
+}
+li{
+    list-style-type: square;
+}
+.special{
+    color : orange;
+    font-weight: bold;
+}
+h1{
+    font-family:'Brush Script MT',cursive;
+}
+body{
+    font-family: cursive;
+    font-size: 100%;
+}
+nav a{
+    text-decoration: none;
+    color:aliceblue;
+    text-align: center;
+    padding: 10px;
+    float:left;
+}
+nav{
+    background-color:  orange;
+    overflow: hidden;
+}
+body{
+    padding: 1px;
+    border: 5px solid black;
+    margin: 1px;
+}
+div {
+    padding: 18px;
+    border: 10px solid black;
+    margin: 20px;
+}
+img{
+    border: 8px solid black;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 25%;
+}
+footer{
+    text-align: end;
+}
